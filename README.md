@@ -18,3 +18,7 @@ WindowsMediaPlayer audioPlayer = new WindowsMediaPlayer();
 audioPlayer.URL = "AudioFile.mp3"; // replace the 'AudioFile.mp3' with the path to your audio file
 audioPlayer.controls.play();
 ```
+
+## Credits
+[Playing a MP3 file in a WinForm application (Stack Overflow)](https://stackoverflow.com/questions/15025626/playing-a-mp3-file-in-a-winform-application)<br/>
+[Author (Stack Overflow)](https://stackoverflow.com/users/1661209/max)
